@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC102Login(Fail)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3964ecb2-3818-4313-92d4-cb771cec1951</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75942e4d-e4f6-4879-85da-80063f4788e5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8ae9863-e3ac-4999-b4c0-7d8edd61012a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

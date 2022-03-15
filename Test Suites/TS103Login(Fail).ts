@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS103Login(Fail)</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f410627a-c512-4404-971c-cd213258ec57</testSuiteGuid>
+   <testCaseLink>
+      <guid>f50c8488-dc6d-4d72-ab84-76e76f4d5958</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC102Login(Fail)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>03eca534-0457-4147-b07e-00e0e3a9dc39</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginData(DB-UnSuccess)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>03eca534-0457-4147-b07e-00e0e3a9dc39</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>75942e4d-e4f6-4879-85da-80063f4788e5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>03eca534-0457-4147-b07e-00e0e3a9dc39</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c8ae9863-e3ac-4999-b4c0-7d8edd61012a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

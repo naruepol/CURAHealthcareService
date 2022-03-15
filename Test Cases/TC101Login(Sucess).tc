@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC101Login(Sucess)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77dacd4c-9047-4f1a-9acd-9cb92de0eef2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52b6f3fb-54ac-4770-8580-8352e730eaa5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc50f7a4-0fa0-49fa-bca8-1e56b62dfe59</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
